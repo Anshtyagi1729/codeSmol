@@ -1,4 +1,4 @@
-##codeSmol-ts
+# codeSmol-ts
 
 Lazy coding agent in TypeScript - supports OpenRouter, Groq, and Anthropic APIs.
 
